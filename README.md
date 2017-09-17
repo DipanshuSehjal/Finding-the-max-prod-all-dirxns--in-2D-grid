@@ -10,5 +10,5 @@ Left-diagonal:
   3. Terminate when reaches longest diagonal(middle diagonal).
   
 Right-diagonal:
-  Interchange the columns of the original grid (0 with 19..)
-  Perform the same algorithm.
+  1. Interchange the columns of the original grid (0 with 19..)
+  2. Perform the same algorithm.
